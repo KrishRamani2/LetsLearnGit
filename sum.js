@@ -1,3 +1,3 @@
 let a =5
 let b =6
-console.log("The sum of numbers is ",a+b)
+console.log("Diff of numbers is ",a+b)
